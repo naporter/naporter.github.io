@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Projects.iml" filepath="$PROJECT_DIR$/.idea/Projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.naporter.iml" filepath="$PROJECT_DIR$/com.naporter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.naporter.src.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.naporter.src.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.naporter.src.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.naporter.src.test.iml" />
+    </modules>
+  </component>
+</project>
