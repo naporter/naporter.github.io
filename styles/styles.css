@@ -1,15 +1,35 @@
 body {
-  background-color: powderblue;
+  margin: 0;
+  background-color: #BEC6A0;
 }
 h1 {
   color: blue;
 }
-h2 {
-	color: orange;
-}
-p {
-  color: red;
-}
+
 .introduction {
-	background-color: purple;
+    color: #BEC6A0;
+    font-size: 30px;
+    background-color: #606676;
+    padding: 5%;
+}
+.languages {
+    h2 {
+            color: #606676;
+        }
+    color: #BEC6A0;
+    font-size: 30px;
+    background-color: #708871;
+    padding: 5%;
+}
+.example-projects {
+    color: #BEC6A0;
+    font-size: 30px;
+    background-color: #606676;
+    padding: 5%;
+}
+.footer {
+    margin: auto;
+    text-align: center;
+    width: 50%;
+    padding: 5%;
 }
